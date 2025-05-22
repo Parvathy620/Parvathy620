@@ -1,7 +1,7 @@
 Hi there, I'm PARVATHY
 
 
-- 👀 I’m interested in animation and full stack development
+- 👀 I’m interested in full stack development
 - 💞️ I’m looking to collaborate on Open source projecs
 - 👯 I’m an Information technology Engineering student
 
